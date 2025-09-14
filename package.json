@@ -1,0 +1,44 @@
+{
+  "name": "book-source-rule-parser",
+  "version": "1.0.0",
+  "description": "书源规则解析器 - 支持 CSS、XPath、JSON、正则、JS 选择器和组合运算规则",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui",
+    "coverage": "vitest run --coverage",
+    "build": "node build.js",
+    "dev": "node --watch index.js",
+    "lint": "eslint src/ --fix"
+  },
+  "keywords": [
+    "book-source",
+    "rule-parser",
+    "css-selector",
+    "xpath",
+    "json-path",
+    "regex",
+    "crawler"
+  ],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.16.0",
+  "devDependencies": {
+    "@eslint/js": "^8.0.0",
+    "@vitest/coverage-v8": "^1.6.1",
+    "@vitest/ui": "^1.6.1",
+    "eslint": "^8.0.0",
+    "vitest": "^1.6.1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "jsdom": "^22.1.0",
+    "jsonpath": "^1.1.1",
+    "xpath": "^0.0.34"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
