@@ -410,7 +410,7 @@ npm run test:ui
 
 ## 📄 许可证
 
-MIT License - 详见 [LICENSE](LICENSE) 文件
+PolyForm Noncommercial License - 详见 [LICENSE](LICENSE) 文件
 
 ## 🙏 致谢
 
