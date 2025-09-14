@@ -4,7 +4,6 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![Tests](https://img.shields.io/badge/Tests-199%20cases-brightgreen.svg)](#测试报告)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 🚀 特性
 
@@ -416,6 +415,9 @@ PolyForm Noncommercial License - 详见 [LICENSE](LICENSE) 文件
 
 感谢所有贡献者和用户的支持！
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=legadoteam/legado-rule&type=Date)](https://www.star-history.com/#legadoteam/legado-rule&Date)
 ---
 
 **Star ⭐ 这个项目如果它对你有帮助！**
